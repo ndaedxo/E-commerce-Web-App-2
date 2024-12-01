@@ -1,0 +1,31 @@
+/* Button.module.css */
+.btn {
+    /* Add your button styles here */
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn.default {
+    background-color: #007bff;
+    color: white;
+    border: none;
+  }
+  
+  .btn.outline {
+    background-color: transparent;
+    color: #007bff;
+    border: 2px solid #007bff;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn:disabled {
+    background-color: #6c757d;
+    cursor: not-allowed;
+  }
+  

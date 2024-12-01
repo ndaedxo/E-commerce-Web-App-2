@@ -1,0 +1,58 @@
+/* ThriftStore/src/styles/pages/HomePage.module.css */
+ .container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  font-size: 1.25rem;
+  color: #6c757d;
+}
+
+.mainContent {
+  flex: 1;
+  padding: 2rem 1rem;
+}
+
+.featuredProducts {
+  margin-bottom: 2rem;
+}
+
+.featuredProducts h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.productGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.aboutUs {
+  background-color: #e9ecef;
+  padding: 2rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.aboutUs h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.aboutUs p {
+  font-size: 1rem;
+  color: #495057;
+} 

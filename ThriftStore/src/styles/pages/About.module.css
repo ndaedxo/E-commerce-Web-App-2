@@ -1,0 +1,18 @@
+/* ThriftStore/src/styles/pages/About.module.css */
+.aboutPage {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.aboutPage h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.aboutPage p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}

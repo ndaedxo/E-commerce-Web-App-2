@@ -1,0 +1,60 @@
+/* ThriftStore/src/styles/pages/LoginReg.module.css */
+/* .page-container {
+    max-width: 500px;
+    margin: 2em auto;
+    padding: 2em;
+    background-color: var(--background-color);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .page-heading {
+    margin-bottom: 1em;
+    color: var(--text-color);
+    text-align: center;
+  }
+  
+  .page-form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    margin-bottom: 1em;
+  }
+  
+  .page-input {
+    width: 100%;
+    padding: 0.5em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .page-button {
+    background-color: var(--button-background);
+    color: var(--button-text);
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+    width: 100%;
+  }
+  
+  .page-button:hover {
+    background-color: var(--button-hover-background);
+  }
+  
+  .page-footer {
+    text-align: center;
+  }
+  
+  .page-link {
+    color: var(--link-color);
+    text-decoration: none;
+  }
+  
+  .page-link:hover {
+    text-decoration: underline;
+  }
+   */

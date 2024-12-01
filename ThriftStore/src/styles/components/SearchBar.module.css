@@ -1,0 +1,28 @@
+/* ThriftStore\src\styles\components\SearchBar.module.css */
+
+.searchBar {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .searchBar input {
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    flex: 1;
+  }
+  
+  .searchBar button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  .searchBar button:hover {
+    background-color: #0056b3;
+  }
+  

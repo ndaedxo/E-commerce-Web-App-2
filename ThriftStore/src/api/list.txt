@@ -1,0 +1,33 @@
+Service:ThriftStore\src\services
+authService.ts: Handles authentication-related tasks.
+productService.ts: Manages product-related operations.
+cartService.ts: Manages cart operations.
+orderService.ts: Handles order creation and retrieval.
+userService.ts: Manages user profile data.
+checkoutService.ts: Handles checkout and payment processes.
+notificationService.ts: Manages notifications.
+searchService.ts: Handles product search queries.
+
+
+utils://ThriftStore\src\utils
+api.ts: Contains API call functions and a customized Axios instance.
+validation.ts: Includes validation functions for email and password.
+formatting.ts: Provides formatting functions for currency, dates, and strings.
+localStorage.ts: Manages local storage operations.
+dateUtils.ts: Contains additional date and time helper functions.
+
+hooks://ThriftStore\src\hooks
+useAuth.ts
+useCart.ts
+useProducts.ts
+useUser.ts
+useCheckout.ts
+useOrders.ts
+useSearch.ts
+types.ts
+
+
+context://ThriftStore\src\context
+AuthContext
+CartContext
+NotificationContext
