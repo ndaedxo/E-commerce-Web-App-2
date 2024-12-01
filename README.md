@@ -39,7 +39,7 @@ ThriftStore is a full-stack e-commerce application that provides a seamless onli
 
 1. Clone the repository and navigate to the backend directory:
    ```bash
-   git clone https://github.com/your-repo/thriftstore.git
+   git clone https://github.com/ndaedxo/E-commerce-Web-App-2.git
    cd thriftstore/Back-end
    ```
 
